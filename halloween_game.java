@@ -11,6 +11,8 @@ public class halloween_game{
       case 1:
         
         System.out.println("You have chosen Trivia");
+        System.out.println("\n\n");
+        
         
        break;
         
@@ -21,7 +23,7 @@ public class halloween_game{
        break;
        
       default:
-        System.out.println("Please pick an eligble option :) ");  
+        System.out.println("Please pick an eligble option :-) ");  
     }
     
   }
