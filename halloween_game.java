@@ -1,5 +1,5 @@
 Import java.util.Scanner;
-public class halloween_guesser{
+public class halloween_game{
   public static void main (String []args){
     Scanner k = new Scanner(System.in);
     System.out.println("Enter a game mode:\n"+
