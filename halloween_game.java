@@ -16,42 +16,42 @@ public class halloween_game{
         
         int qu = rand.nextInt(11); // random number generator for the question
         
-        if (qu == 0)
-         System.out.println("Only one holiday surpasses Halloween in annual consumer sales. What is it?");
-          String rightAnswer= "Christmas";
+        if (qu == 0){
+          System.out.println("Only one holiday surpasses Halloween in annual consumer sales. What is it?");
+            String rightAnswer= "Christmas";}
         
-        else if (qu==1)
+        else if (qu == 1){
           System.out.println("What was candy corn originally called?");
-           String rightAnswer= "Christmas";
+           String rightAnswer= "Chicken feed";}
         
-        else if (qu==2)
-          System.out.println("What famous magician died on Halloween?");
+        else if (qu==2){
+          System.out.println("What famous magician died on Halloween?");}
         
-        else if (qu==3)
-          System.out.println("What is the most commercially successful horror movie of all time?");
+        else if (qu==3){
+          System.out.println("What is the most commercially successful horror movie of all time?");}
         
-        else if (qu==4)
-          System.out.println("Where was the first city-wide Halloween celebration in the United States?");
+        else if (qu==4){
+          System.out.println("Where was the first city-wide Halloween celebration in the United States?");}
         
-        else if (qu==5)
-          System.out.println("What candy was given to soldiers in battle in the Korean War?");
+        else if (qu==5){
+          System.out.println("What candy was given to soldiers in battle in the Korean War?");}
         
-        else if (qu==5)
-          System.out.println("What is the most commercially successful horror franchise of all time?");
+        else if (qu==6){
+          System.out.println("What is the most commercially successful horror franchise of all time?");}
         
-        else if (qu==6)
-          System.out.println("What horror movie was the first American film ever to show a toilet on screen?");
+        else if (qu==7){
+          System.out.println("What horror movie was the first American film ever to show a toilet on screen?");}
         
-        else if (qu==7)
-          System.out.println("In what American state is it illegal to be a priest or nun for Halloween?");
+        else if (qu==8){
+          System.out.println("In what American state is it illegal to be a priest or nun for Halloween?");}
         
-        else if (qu==8)
-          System.ouut.println("What is the most popular Halloween candy in America?");
+        else if (qu==9){
+          System.out.println("What is the most popular Halloween candy in America?");}
         
-        else if (qu==9)
-            System.out.println("What was the original title for Disney’s Hocus Pocus?");
+       // else if (qu==10){
+       //     System.out.println("What was the original title for Disney’s Hocus Pocus?");}
         
-        else    (qu==10)
+        else   
           System.out.println("What ancient Roman goddess is said to be honored on Halloween?");
         
         
