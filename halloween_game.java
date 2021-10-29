@@ -1,4 +1,4 @@
-Import java.util.Scanner;
+import java.util.Scanner;
 public class halloween_game{
   public static void main (String []args){
     Scanner k = new Scanner(System.in);
