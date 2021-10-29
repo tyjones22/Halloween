@@ -18,9 +18,11 @@ public class halloween_game{
         
         if (qu == 0)
          System.out.println("Only one holiday surpasses Halloween in annual consumer sales. What is it?");
+          String rightAnswer= "Christmas";
         
         else if (qu==1)
           System.out.println("What was candy corn originally called?");
+           String rightAnswer= "Christmas";
         
         else if (qu==2)
           System.out.println("What famous magician died on Halloween?");
