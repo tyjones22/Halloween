@@ -44,7 +44,17 @@ public class halloween_game{
           System.out.println("In what American state is it illegal to be a priest or nun for Halloween?");
         
         else if (qu==8)
-          System.ouut.println("");
+          System.ouut.println("What is the most popular Halloween candy in America?");
+        
+        else if (qu==9)
+            System.out.println("What was the original title for Disney’s Hocus Pocus?");
+        
+        else    (qu==10)
+          System.out.println("What ancient Roman goddess is said to be honored on Halloween?");
+        
+        
+        
+        
         
        break;
         
